@@ -67,7 +67,7 @@ return [
 	'no_result' => 'no results',
 	'header_results' => 'Results',
 	'talents' => 'Talents',
-	'action_points' => 'Action points',
+	'action_points' => 'Action points 372',
 	'pagination_to_the_start' => 'to the start',
 	'pagination_to_the_end' => 'to the end',
 	'clan_tag' => 'Clan tag',
